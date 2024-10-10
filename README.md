@@ -51,6 +51,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/daSkciN/daSkciN/output/snake.svg" alt="Snake animation" />
 
 ###
