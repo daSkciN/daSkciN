@@ -19,19 +19,12 @@
 ##
 
 <div align="left">
-  <a href="https://github.com/Welthanos">
+  <a href="https://github.com/daSkciN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Welthanos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&env=pat_1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welthanos&layout=compact&langs_count=7&theme=dracula&env=pat_1"/>
 </div>
 
 <br>
 
-<div> 
-  <a href="https://www.linkedin.com/in/welthanos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/welthanos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-D43377?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:welthanos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D44C3D?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/welthanos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.facebook.com/welton.santos.796" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1A4789?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-</div>
 
 ##
