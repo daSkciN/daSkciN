@@ -52,3 +52,8 @@
 <img src="https://raw.githubusercontent.com/daSkciN/daSkciN/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+![snake gif](https://github.com/daSkciN/daSkciN/blob/output/github-contribution-grid-snake.gif)
