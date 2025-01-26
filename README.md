@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🖥️ I’m currently studying computer science<br>📖 Learning back-end in Java</p>
+<p align="left">🖥️ I’m currently studying computer science<br>📖 Learning JavaScript</p>
 
 ###
 
