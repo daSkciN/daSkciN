@@ -185,25 +185,7 @@ Federal University of Sergipe
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dasKcin&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasKcin&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=dasKcin&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dasKcin&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
