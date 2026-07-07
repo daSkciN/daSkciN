@@ -1,59 +1,272 @@
-<h2 align="left">Hi 👋! My name is Nicolas Souza</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Nicolas%20Souza%20Araujo&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35"/>
 
-<img align="right" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa79357-9476-4c1d-b9a8-6e881f2449d3/ddocudp-dc7b34f6-3cff-4c92-95f5-762e7a071ff9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYTc5MzU3LTk0NzYtNGMxZC1iOWE4LTZlODgxZjI0NDlkM1wvZGRvY3VkcC1kYzdiMzRmNi0zY2ZmLTRjOTItOTVmNS03NjJlN2EwNzFmZjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cg6sZ_j55w_UW340vRWuCSRM2UbQCeKgjkRCXH-qA6s"  />
+# Hi there 👋 I'm Nicolas Souza Araujo
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Next.js+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-<p align="left">🖥️ I’m currently studying computer science<br></p>
+<p>
 
-###
+<a href="mailto:nicolas.reserva333@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+<a href="https://github.com/dasKcin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/nicolassaraujo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://pelada-stats.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=dasKcin&style=for-the-badge)
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 💻 About Me
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daSkciN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daSkciN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+I'm a **Full Stack Developer** passionate about building scalable and high-performance applications.
+
+My experience includes developing enterprise systems using **Java, Spring Boot, React, Next.js and TypeScript**, working with REST APIs, microservices, Apache Kafka, SQL/NoSQL databases and CI/CD pipelines.
+
+I enjoy solving complex problems, writing clean code and creating software that delivers real business value.
+
+### Currently
+
+- 🔭 Working as Full Stack Developer
+- 🌱 Learning Software Architecture & Cloud
+- ⚙️ Interested in Backend Engineering
+- 🚀 Open to Full Stack & Backend opportunities
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,html,css"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+</p>
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure"/>
+</p>
+
+---
+
+# 🤖 AI / Engineering Skills
+
+| Domain | Level | Details |
+|---------|------|---------|
+| Backend Development | ⭐⭐⭐⭐⭐ | Spring Boot, REST APIs, Java |
+| Frontend Development | ⭐⭐⭐⭐⭐ | React, Next.js, TypeScript |
+| Database Design | ⭐⭐⭐⭐☆ | PostgreSQL, MongoDB |
+| Microservices | ⭐⭐⭐⭐☆ | Enterprise Applications |
+| CI/CD | ⭐⭐⭐⭐☆ | Azure DevOps |
+| Clean Code | ⭐⭐⭐⭐⭐ | SOLID, Design Patterns |
+
+---
+
+# 🌟 Featured Project
+
+<details>
+
+<summary><b>⚽ Pelada Stats</b></summary>
+
+A complete platform for managing amateur football matches and player statistics.
+
+| Feature | Description |
+|----------|-------------|
+| Stack | React, Next.js, TypeScript, Tailwind CSS, PostgreSQL |
+| Authentication | Yes |
+| Rankings | Yes |
+| Player Stats | Yes |
+| Match History | Yes |
+| Responsive | Yes |
+
+### Features
+
+- Player Ranking
+- Match History
+- Statistics
+- Achievements
+- Ratings
+- Authentication
+- Responsive UI
+
+🔗 https://pelada-stats.vercel.app/
+
+</details>
+
+---
+
+# 💼 Experience
+
+## Instituto Federal de Sergipe (IFS)
+
+**Frontend Developer**  
+*2026 - Present*
+
+- React
+- JavaScript
+- Responsive Interfaces
+- Performance Improvements
+
+---
+
+## Edenred
+
+**Full Stack Developer**  
+*2025 - 2026*
+
+- Spring Boot APIs
+- Performance Optimization
+- Mobile Responsive Features
+- Code Refactoring
+- SQL Optimization
+- REST Integrations
+
+---
+
+## DBC Company
+
+**Full Stack Intern**
+
+*2024 - 2025*
+
+- Unit Testing
+- React
+- Spring Boot
+- REST APIs
+- Bug Fixes
+
+---
+
+# 🎓 Education
+
+🎓 Analysis and Systems Development  
+Estácio de Sá
+
+🎓 Computer Science  
+Federal University of Sergipe
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - Software Architecture
+  - Cloud Computing
+  - Kubernetes
+
+building:
+  - Pelada Stats
+  - Enterprise Java Applications
+
+exploring:
+  - AI
+  - System Design
+  - Distributed Systems
+
+open_to:
+  - Backend
+  - Full Stack
+  - Remote Opportunities
+```
+
+---
+
+# 📫 Contact
+
+- 📧 nicolas.reserva333@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/nicolassaraujo
+- 💻 GitHub: https://github.com/dasKcin
+- 🌐 https://pelada-stats.vercel.app
+
+---
+
+<div align="center">
+
+> *"Great software is built through continuous learning, collaboration, and attention to detail."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=6,12,20,24,30"/>
+
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/_nicolassouza_a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto: nicolas.reserva333@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-souza-araujo-565372184/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/daSkciN/daSkciN/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-![snake gif](https://github.com/daSkciN/daSkciN/blob/output/github-contribution-grid-snake.gif)
